@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="modelo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3701319"
+     inkscape:cx="325.88104"
+     inkscape:cy="353.98053"
+     inkscape:window-width="1920"
+     inkscape:window-height="935"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1546"
+       x="-0.0095481212"
+       y="-0.027159175"
+       width="1.0190962"
+       height="1.0543184">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.098086355"
+         id="feGaussianBlur1548" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect840"
+       style="fill:#000040;fill-opacity:1;stroke-width:0.0985189"
+       d="M 5.5164591 46.105713 C 5.4418236 46.105713 5.3821004 46.165436 5.3821004 46.240072 L 5.3821004 60.301229 C 5.3821004 60.226593 5.4418236 60.16687 5.5164591 60.16687 L 180.57761 60.16687 C 180.65224 60.16687 180.71197 60.226593 180.71197 60.301229 L 180.71197 46.240072 C 180.71197 46.165436 180.65224 46.105713 180.57761 46.105713 L 5.5164591 46.105713 z " />
+    <rect
+       style="fill:#00006e;fill-opacity:1;stroke-width:0.0890769"
+       id="rect950"
+       width="175.33014"
+       height="62.989952"
+       x="5.381988"
+       y="60.166763"
+       rx="0.13472126" />
+    <rect
+       style="fill:#00009e;fill-opacity:1;stroke-width:0.0687561"
+       id="rect1373"
+       width="136.14493"
+       height="48.96624"
+       x="39.075199"
+       y="65.968803"
+       ry="2.6458333" />
+    <g
+       id="g1649">
+      <g
+         id="g1557"
+         transform="translate(0.0726371)">
+        <g
+           id="g1252"
+           transform="translate(-12.767423,15.291855)">
+          <rect
+             style="fill:#170054;fill-opacity:1;stroke-width:0.0125616"
+             id="rect1058"
+             width="24.725014"
+             height="8.8828278"
+             x="20.257959"
+             y="51.243523"
+             rx="1.3229166"
+             ry="1.3229166" />
+          <text
+             xml:space="preserve"
+             style="font-size:5.82083px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;fill-opacity:1;stroke-width:0.114"
+             x="26.194277"
+             y="57.664021"
+             id="text1133"><tspan
+               sodipodi:role="line"
+               id="tspan1131"
+               style="fill:#ffffff;stroke-width:0.114"
+               x="26.194277"
+               y="57.664021">Home</tspan></text>
+        </g>
+        <path
+           id="rect1461"
+           style="opacity:0.380479;fill:#000000;fill-opacity:1;stroke-width:0.0125616;filter:url(#filter1546)"
+           d="m 31.616158,66.90496 c 0.04482,0.133176 0.07028,0.275597 0.07028,0.424263 v 6.236829 c 0,0.732895 -0.590022,1.322917 -1.322917,1.322917 H 8.2842488 c -0.2676735,0 -0.5156971,-0.07935 -0.72347,-0.214974 0.176147,0.523355 0.6684084,0.898653 1.2526367,0.898653 H 30.892688 c 0.732895,0 1.322916,-0.590022 1.322916,-1.322917 v -6.236829 c 0,-0.465221 -0.238333,-0.872227 -0.599446,-1.107942 z" />
+      </g>
+      <g
+         id="g1603"
+         transform="translate(30.130988,0.36202022)">
+        <g
+           id="g1584"
+           transform="translate(-2.432781,0.00232781)">
+          <rect
+             style="fill:#170054;fill-opacity:1;stroke-width:0.0125616"
+             id="rect1559"
+             width="24.725014"
+             height="8.8828278"
+             x="-20.135035"
+             y="77.425819"
+             rx="1.3229166"
+             ry="1.3229166" />
+          <path
+             id="path1567"
+             style="opacity:0.380479;fill:#000000;fill-opacity:1;stroke-width:0.0125616;filter:url(#filter1546)"
+             d="m 3.990588,77.795401 c 0.04482,0.133176 0.07028,0.275597 0.07028,0.424263 v 6.236829 c 0,0.732895 -0.590022,1.322917 -1.322917,1.322917 h -22.079272 c -0.267674,0 -0.515697,-0.07935 -0.72347,-0.214974 0.176147,0.523355 0.668408,0.898653 1.252637,0.898653 H 3.267118 c 0.732895,0 1.322916,-0.590022 1.322916,-1.322917 v -6.236829 c 0,-0.465221 -0.238333,-0.872227 -0.599446,-1.107942 z" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:5.82083px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;fill-opacity:1;stroke-width:0.114"
+           x="-15.685374"
+           y="84.279312"
+           id="text1247"><tspan
+             sodipodi:role="line"
+             id="tspan1245"
+             style="fill:#ffffff;stroke-width:0.114"
+             x="-15.685374"
+             y="84.279312">Skills</tspan></text>
+      </g>
+      <g
+         id="g1616"
+         transform="translate(35.102989,12.091747)">
+        <g
+           id="g1590"
+           transform="translate(-7.4047824,-0.47260986)">
+          <rect
+             style="fill:#170054;fill-opacity:1;stroke-width:0.0125616"
+             id="rect1586"
+             width="24.725014"
+             height="8.8828278"
+             x="-20.135035"
+             y="77.425819"
+             rx="1.3229166"
+             ry="1.3229166" />
+          <path
+             id="path1588"
+             style="opacity:0.380479;fill:#000000;fill-opacity:1;stroke-width:0.0125616;filter:url(#filter1546)"
+             d="m 3.990588,77.795401 c 0.04482,0.133176 0.07028,0.275597 0.07028,0.424263 v 6.236829 c 0,0.732895 -0.590022,1.322917 -1.322917,1.322917 h -22.079272 c -0.267674,0 -0.515697,-0.07935 -0.72347,-0.214974 0.176147,0.523355 0.668408,0.898653 1.252637,0.898653 H 3.267118 c 0.732895,0 1.322916,-0.590022 1.322916,-1.322917 v -6.236829 c 0,-0.465221 -0.238333,-0.872227 -0.599446,-1.107942 z" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:5.82083px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;fill-opacity:1;stroke-width:0.114"
+           x="-24.228453"
+           y="83.172813"
+           id="text1239"><tspan
+             sodipodi:role="line"
+             id="tspan1237"
+             style="fill:#ffffff;stroke-width:0.114"
+             x="-24.228453"
+             y="83.172813">Projetos</tspan></text>
+      </g>
+      <g
+         id="g1623"
+         transform="translate(42.778329,6.6443261)">
+        <g
+           id="g1596"
+           transform="translate(-15.080122,16.2296)">
+          <rect
+             style="fill:#170054;fill-opacity:1;stroke-width:0.0125616"
+             id="rect1592"
+             width="24.725014"
+             height="8.8828278"
+             x="-20.135035"
+             y="77.425819"
+             rx="1.3229166"
+             ry="1.3229166" />
+          <path
+             id="path1594"
+             style="opacity:0.380479;fill:#000000;fill-opacity:1;stroke-width:0.0125616;filter:url(#filter1546)"
+             d="m 3.990588,77.795401 c 0.04482,0.133176 0.07028,0.275597 0.07028,0.424263 v 6.236829 c 0,0.732895 -0.590022,1.322917 -1.322917,1.322917 h -22.079272 c -0.267674,0 -0.515697,-0.07935 -0.72347,-0.214974 0.176147,0.523355 0.668408,0.898653 1.252637,0.898653 H 3.267118 c 0.732895,0 1.322916,-0.590022 1.322916,-1.322917 v -6.236829 c 0,-0.465221 -0.238333,-0.872227 -0.599446,-1.107942 z" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:5.82083px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;fill-opacity:1;stroke-width:0.114"
+           x="-33.338627"
+           y="99.88958"
+           id="text1243"><tspan
+             sodipodi:role="line"
+             id="tspan1241"
+             style="fill:#ffffff;stroke-width:0.114"
+             x="-33.338627"
+             y="99.88958">Formação</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
