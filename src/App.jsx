@@ -8,12 +8,12 @@ export default function App() {
 
     return (
         <>
-        <GlobalStyle />
-        <BrowserRouter>
-            <Routes>
-                <Route path="/" element={<Home />}/>
-            </Routes>
-        </BrowserRouter>
+            <GlobalStyle />
+            <BrowserRouter>
+                <Routes>
+                    <Route path="/" element={<Home />} />
+                </Routes>
+            </BrowserRouter>
         </>
     )
 }
