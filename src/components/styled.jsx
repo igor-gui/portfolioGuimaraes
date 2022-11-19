@@ -37,7 +37,7 @@ export const StyledHome = styled.main`
             text-decoration: none;
             height: 45px;
             width: 100px;
-            background-color: #12175C;
+            background-color: #836156;
             border-radius: 4px;
             display: flex;
             align-items: center;
